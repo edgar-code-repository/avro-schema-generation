@@ -1,7 +1,7 @@
 AVRO SCHEMA GENERATION
 --------------------------------------------------------------------------------------------------
 
-This is a simple example that shows how to generate an Avro Schema from a coupleof Java classes.
+This is a simple example that shows how to generate an Avro Schema from a couple of Java classes.
 
 --------------------------------------------------------------------------------------------------
 
